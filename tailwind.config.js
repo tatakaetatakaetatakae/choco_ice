@@ -281,7 +281,7 @@ module.exports = {
         "color-0c0f14": "#0C0F14",
         "color-0c0f14-60": "rgba(12, 15, 20, 0.6)",
         "color-0c0f14-74": "rgba(10, 6, 23, 0.74)",
-        "color-d17842": "#D17842",
+        "color-e9761b": "#e9761b",
         "color-131820": "#131820",
         "color-f5f5f5": "#F5F5F5",
         "color-435470-40": "rgba(67, 84, 112, 0.4)",
